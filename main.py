@@ -6,7 +6,7 @@ print(resultado1)
 
 
 def restar(a, b):
-      return  a - b
+    return  a - b
 resultado1 =  restar(5 , 3)
 print(resultado1)
 
@@ -18,13 +18,13 @@ resultado1 = multiplicar(7 , 3)
 print(resultado1)
 
 def dividir(a, b):
-      return  a / b
+    return  a / b
 resultado1 = dividir(10 , 2)
 
 print(resultado1)
 
 
-"""def main():
+def main():
     num1 = float(input("Ingrese el primer número: "))
     num2 = float(input("Ingrese el segundo número: "))
 
@@ -34,4 +34,4 @@ print(resultado1)
     print("División:", dividir(num1, num2))
 
 if __name__ == "__main__":
-    main()"""
+    main()
