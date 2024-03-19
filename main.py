@@ -1,6 +1,6 @@
 def sumar(a, b):
     return  a + b
-resultado1 =  sumar(2 , 5)
+resultado1 =  sumar(3 , 5)
 
 print(resultado1)
 
@@ -13,7 +13,7 @@ print(resultado1)
 
 def multiplicar(a, b):
     return  a * b
-resultado1 = multiplicar(7 , 3)
+resultado1 = multiplicar(3 , 5)
 
 print(resultado1)
 
